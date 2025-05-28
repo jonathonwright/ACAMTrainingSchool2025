@@ -7,12 +7,14 @@ file: iitm_aismr.txt
 - citation: Singh, D., S. Ghosh, M. K. Roxy and S. McDermid, 2019: Indian summer monsoon: Extreme events, historical changes, and role of anthropogenic forcings. WIREs Clim Change. 2019;10:e571. https://doi.org/10.1002/wcc.571
 
 file: sst_cobe2.1x1.1850-2024.1m.nc
+- available at: https://cloud.tsinghua.edu.cn/f/b75e72ab5d3b4a83a282/
 - contains: COBE-SST2 Sea Surface Temperature and Ice
 - acquired from: http://www.psl.noaa.gov/data/gridded/cobe2.html
 - original source: https://climate.mri-jma.go.jp/pub/ocean/cobe-sst2/
 - citation: Hirahara, S., Ishii, M., and Y. Fukuda,2014: Centennial-scale sea surface temperature analysis and its uncertainty. J of Climate, 27, 57-75. https://doi.org/10.1175/JCLI-D-12-00837.1
 
 file: od550aer_mon_historical_HadGEM3-GC31-LL_1850-2014.2p5.ens_5mem.nc
+- available at: https://cloud.tsinghua.edu.cn/f/f419f20a2a644725b9e2/
 - acquired from: ESGF (https://aims2.llnl.gov/search)
 - contains: outputs from historical simulations conducted using the HadGEM3-GC31-LL Earth system model
 - scenario: historical, five ensemble members with different initial conditions
