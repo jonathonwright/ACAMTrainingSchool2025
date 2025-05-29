@@ -1,5 +1,7 @@
 # README: Preliminaries
 
+Contact me: jswright@tsinghua.edu.cn 
+
 The goal of these tutorials is to get you started with python and its applications in climate data analysis. If you are already using conda, you may want to use a clean environment to avoid conflicts. If you are not, instructions for getting started with [miniforge](https://conda-forge.org/download/) are provided in the links below.
 
 Packages you will need:
