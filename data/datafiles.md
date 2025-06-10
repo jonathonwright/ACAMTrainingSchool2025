@@ -1,3 +1,7 @@
+Regions: 
+ACAM: 65-145E, 10S-30N
+ASIA-AQ: 95-105E, 10N-20N
+
 For total column ozone:
 - CAMSRA 3-hourly means 2024-03-13 to 2024-03-27 (tco3 and T2m; 3M): https://cloud.tsinghua.edu.cn/f/bfedeee7a8df41b88507/?dl=1
 - ERA5 hourly means 2024-03-13 to 2024-03-27 (tco3 and T2m; 55M): 
