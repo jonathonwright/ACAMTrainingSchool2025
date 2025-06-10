@@ -15,3 +15,6 @@ For AOD and other aerosol parameters:
 - GEOS-CF asia_aq AOD and aerosol diagnostics hourly 2024-03-13 to 2024-03-27 (150M): https://cloud.tsinghua.edu.cn/f/be2aa8eb5ee146ba9ef3/?dl=1
 - MERRA-2 acam monthly aerosol analysis 1980-2024 (91M): https://cloud.tsinghua.edu.cn/f/6f4408a35bc94443b159/?dl=1
 - MERRA-2 acam monthly aerosol diagnostics 1980-2024 (500M!): https://cloud.tsinghua.edu.cn/f/acf2a546e2c74e81ac83/?dl=1 
+
+Surface air quality
+- GEOS-CF asia_aq air quality hourly 2024-03-13 to 2024-03-27 (12M): https://cloud.tsinghua.edu.cn/f/bf95d6d77a6544ba82ab/?dl=1
